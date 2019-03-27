@@ -1,0 +1,16 @@
+# 添加你的某个模块的所有数据
+# 单模块、单用例、单参数
+test_search:
+  test_search_1:
+    keywork: 我是中文
+  test_search_2:
+    keywork: 123
+
+# 单模块、单用例、多参数
+test_set_font:
+  test_set_font_1:
+    username: 张三
+    passwork: 123456
+  test_set_font_2:
+    username: 李四
+    passwork: 987654
